@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi 👋, I'm Merit Suwal
 
+📑 My current portfolio : https://meritsuwal.github.io/april/
+🌱 I’m currently learning #JS and #C.
+📫 How to reach me : meritsuwal@gmail.com
 <!--
 **MeritSuwal/MeritSuwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
