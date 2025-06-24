@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Merit Suwal
 
 • 📑 Portfolio under Construction : https://meritsuwal.github.io/april/ <br />
-• 🌱 I’m currently learning **PY** and **C**. <br />
+• 🌱 I’m currently learning **PY** and **ML algorithms.**. <br />
 • 📫 How to reach me : meritsuwal@gmail.com <br />
 <!--
 **MeritSuwal/MeritSuwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
