@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Merit Suwal
 
-• 📑 My current portfolio : https://meritsuwal.github.io/april/ <br />
+• 📑 Portfolio under Construction : https://meritsuwal.github.io/april/ <br />
 • 🌱 I’m currently learning **PY** and **C**. <br />
 • 📫 How to reach me : meritsuwal@gmail.com <br />
 <!--
